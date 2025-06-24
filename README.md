@@ -18,9 +18,9 @@ Le laboratoire est composé des machines virtuelles suivantes, configurées en r
 
 ## 📂 Structure du Dépôt
 
-- **/01-Configuration_Environnement/** : Contient les instructions pour recréer l'environnement de test.
-- **/02-Resultats_Scans/** : Contient les résultats bruts des scans `nmap`.
-- **/03-Rapport_Analyse/** : Contient l'analyse détaillée des résultats et les conclusions.
+- **01-Configuration_Environnement** : Contient les instructions pour recréer l'environnement de test.
+- **02-Resultats_Scans** : Contient les résultats bruts des scans `nmap`.
+- **03-Rapport_Analyse** : Contient l'analyse détaillée des résultats et les conclusions.
 
 ## 🚀 Étapes du Projet
 
