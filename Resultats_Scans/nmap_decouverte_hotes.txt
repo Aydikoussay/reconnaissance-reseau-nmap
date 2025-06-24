@@ -1,0 +1,16 @@
+# ==========================================================
+# Scan de découverte des hôtes actifs
+# Commande : nmap -sP 10.0.2.0/24
+# Date : 2023-10-27
+# ==========================================================
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-10-27 14:30 CEST
+Nmap scan report for 10.0.2.1
+Host is up (0.00021s latency).
+Nmap scan report for 10.0.2.4
+Host is up (0.00058s latency).
+Nmap scan report for 10.0.2.6
+Host is up (0.00045s latency).
+Nmap scan report for 10.0.2.15
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 2.08 seconds
